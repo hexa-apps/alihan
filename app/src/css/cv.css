@@ -1,0 +1,25 @@
+body {
+    overflow:hidden;
+    height: 100%;
+  }
+  
+  .profile-bar {
+    height:100%
+  }
+  
+  .profile-bar-personal-name {
+    background-color:black;
+  }
+  
+  .profile-bar-description {
+    background-color:black;
+  }
+  
+  .profile-bar-contact-container {
+    background-color:black;
+    position:absolute;
+    bottom:0;
+    height:25%;
+  }
+  
+  
